@@ -1,1 +1,4 @@
-AP_COMMON:
+AP_Common: 所有执行文件（sketch格式，arduino IDE的文件）和其他库都需要的基础核心库。 Pixhawk
+AP_Math: 包含了许多数学函数，特别对于矢量运算.
+FastSerial: 串口库
+mavlink: 协议有关的库
